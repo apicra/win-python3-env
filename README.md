@@ -13,6 +13,6 @@ python
 
 ## Use Scripts for windows, created in example/ folder
 
-+ python.install.bat
-+ python.remove.bat
-+ python.update.bat
++ python3env.install.bat
++ python3env.remove.bat
++ python3env.update.bat
