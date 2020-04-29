@@ -8,14 +8,10 @@ python
 
 ## INSTALL
 
-    git clone https://github.com/apicra/debian-python.git python
+    git clone https://github.com/apicra/win-python3-env.git python3env
 
 
-## USAGE
-
-    cd python
-
-### Scripts for windows, created in example/ folder
+## Use Scripts for windows, created in example/ folder
 
 + python.install.bat
 + python.remove.bat

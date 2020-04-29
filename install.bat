@@ -1,4 +1,4 @@
-python3 -m pip install --user virtualenv
-python3 -m venv env
+py -m pip install --user virtualenv
+py -m venv env
 source env/bin/activate
-python3 -m pip install -r src/requirements.txt
+py -m pip install -r src/requirements.txt

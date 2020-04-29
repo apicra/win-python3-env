@@ -1,4 +1,4 @@
-python3 -V
+py -V
 pip3 -V
 pip3 list
 which python
