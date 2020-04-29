@@ -1,2 +1,1 @@
-py -m venv env
-source ../env/bin/activate
+py -m venv env && .\env\Scripts\activate

@@ -1,4 +1,4 @@
 py -V
-pip3 -V
-pip3 list
-which python
+py -m pip -V
+py -m pip list
+where python
